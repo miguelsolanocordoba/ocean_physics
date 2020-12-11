@@ -4,4 +4,4 @@ function f = coriolis(lat)
 % Created: Solano, M. July 7, 2020
 
 sig = 7.292115E-5;
-f = 2*sig.*sin(lat); 
+f = 2*sig.*sind(lat); 
